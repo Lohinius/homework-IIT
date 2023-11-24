@@ -7,11 +7,11 @@
   <hr>
 <center> Кафедра «Телевидения и звукового вещания им. С.И. Катаева (ТиЗВ)» </center>
 <br>
-<center> <font face="times new roman" size="3" color="black"> Отчет по практической работе № 7 </center>
+<center> <font face="times new roman" size="3" color="black"> Отчет по практической работе № 12 </center>
 <center>по дисциплине </center>
 <center><b>«Введение в информационные технологии»</b></center>
 <center>на тему</center>
-<center><b>«Работа с графиками»</b> </center>
+<center><b>«Системы контроля версий»</b> </center>
 
 </font>
 
